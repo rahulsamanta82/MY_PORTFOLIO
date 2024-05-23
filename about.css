@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Roboto+Condensed:wght@700&display=swap');
+body{
+  background-image:linear-gradient(to bottom,rgb(134, 94, 161),rgb(106, 64, 141),rgb(75, 31, 133),rgb(66, 66, 146));
+  background-repeat: no-repeat;
+  color: white;
+}
+#circle-shape-example {
+  font-family: Open Sans, sans-serif;
+  margin: 6rem;
+  text-align: center;
+
+}
+#circle-shape-example p {
+  line-height: 1.8;
+}
+#circle-shape-example .curve {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+}
+.habout{
+  font-size: 50px;
+}
+.heal{
+  float: right;
+  margin-top: 40px;
+  margin-right: 100px;
+  margin-bottom: 100px;
+  font-weight: 100;
+  font-style: italic;
+}
+.menu{
+  color: white;
+}
+span{
+  font-size: 50px;
+  margin: 0;
+}
+.personal-info__description{
+  font-family: 'Dancing Script', cursive;
+font-family: 'Roboto Condensed', sans-serif;
+
+/* background-color: red; */
+}
